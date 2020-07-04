@@ -1,0 +1,1 @@
+Este es un ejemplo en que se muestra como utilizar las funciones de Matlab ya vistas para obtener la respuesta de un sistema de un grado de libertad lineal sujeto a carga aleatoria.
