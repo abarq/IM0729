@@ -1,1 +1,0 @@
-En estos archivos se presentan los ejemplos para ejecutar la respuesta de sistemas mecánicos de un grado de libertad lineales sujetos a carga no periodica
